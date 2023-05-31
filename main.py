@@ -56,12 +56,12 @@ class App():
     # Login Config
     def cons(self):
         # Pega valores do campo de texto
-        self.user = self.winLogin.mat.text() 
+        self.user = self.winLogin.mat.text()
         self.pasw = self.winLogin.pas.text()
 
         # Try Login
         try:
-            linkc = f"https://dados-9be06-default-rtdb.firebaseio.com/users/{self.user}/.json"
+            linkc = f"https://dados-9be06-default-rtdb.firebaseio.com/users/{self.user}.json"
             r = rq.get(linkc)
             dados = r.json()
             for d in dados:
