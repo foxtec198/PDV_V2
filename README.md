@@ -6,7 +6,7 @@ Front End: PyQt5. <br><br>
 <br>
 Para realizar o Login entre em contato com o suporte:<br>
 📱 (43) 9 9661-7904
-<br><br>
+<br>
 <image src='https://github.com/TecnoBreve/Automacao/blob/main/img/pscreen.jpeg'></image>
 <br><br>
 <br>
@@ -22,4 +22,6 @@ para isto você pode simplesmtnte clicar nestas opções abaixo e elas irão abr
 <h2>Settings!</h2>
 E aqui algumas das configurações de ADMIN...
 <image src = "img/pscreen4.png"/>
-<p>₢ Desenvolvido por TecnoBreve 2023 ₢</p>
+
+<br>
+<p>₢ Desenvolvido por Guilherme Barbosa André Breve - TecnoBreve 2023 ₢</p>
