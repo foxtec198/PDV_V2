@@ -9,6 +9,4 @@ Para realizar o Login entre em contato com o suporte:<br>
 <br><br>
 <image src='https://github.com/TecnoBreve/Automacao/blob/main/img/pscreen.jpeg'></image>
 <br><br>
-![image](https://github.com/foxtec198/Automacao/assets/64221923/fd266c72-ac64-4128-bbf6-34c07cc4903b)
-
 <p>₢ Desenvolvido por TecnoBreve 2023 ₢</p>
