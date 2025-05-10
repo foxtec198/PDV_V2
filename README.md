@@ -1,10 +1,13 @@
-![image](https://github.com/TecnoBreve/Automacao/blob/main/img/man.png)
+![image](https://github.com/TecnoBreve/Automacao/blob/main/img/man.png) 
+# Projeto de Automação de Planilhas 
 
-# Olá, Seja bem vindo a pagina do projeto automação!
+> Feito para RCHLO S.A
 
-> Serviços de automação de planilha, feito para RCHLO S.A <br>
-Projeto Feito totalmente em Python3 <br>
-Front End: PyQt5.
+Back-End: 
+> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+Front-End: 
+> ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ## Login
 ### Para realizar o Login entre em contato com o suporte:
